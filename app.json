@@ -1,0 +1,11 @@
+
+{
+  "pages":[
+    "pages/test1/test1"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "我的第一个微信小程序"
+  }
+}

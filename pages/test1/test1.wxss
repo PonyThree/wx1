@@ -1,0 +1,25 @@
+/* pages/test1/test1.wxss */
+/* 这里是局部样式 */
+text{
+  color: red;
+  font-size: 14px;
+}
+.img1{
+  width:160px;
+  height:160px;
+  margin:20px auto;
+  border:2px solid pink;
+  border-radius: 50%;
+}
+ /* 1vw相当于屏幕的百分之一，所以100vw就是屏幕大小 */
+.img2{
+  width:100vw;
+  height:100vh;
+  border:1px dashed purple;
+}
+/* 标准大小是iphone6，1px=2rpx,375px=750rpx,750rpx是固定的
+iphone5 1px=750/350rpx=2.34375rpx
+ */
+/* .img2{
+  width:750rpx;
+} */
